@@ -3,4 +3,5 @@
 
 1. [클라우드 컴퓨팅 개요](https://github.com/ty990520/cloudService/blob/main/01.md)
 2. [가상화](https://github.com/ty990520/cloudService/blob/main/02.md)
-3. [EC2](https://github.com/ty990520/cloudService/blob/main/03.md)
+3. [AWS](https://github.com/ty990520/cloudService/blob/main/03.md)
+4. [EC2](https://github.com/ty990520/cloudService/blob/main/04.md)
