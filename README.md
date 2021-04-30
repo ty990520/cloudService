@@ -6,3 +6,4 @@
 3. [AWS](https://github.com/ty990520/cloudService/blob/main/03.md)
 4. [EC2](https://github.com/ty990520/cloudService/blob/main/04.md)
 5. [우분투 리눅스 기본 명령어](https://github.com/ty990520/cloudService/blob/main/05.md)
+6. [우분투 리눅스 기본 명령어2](https://github.com/ty990520/cloudService/blob/main/06.md)
